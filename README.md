@@ -1,5 +1,9 @@
 # Aroundly
 
+App dedicata alla nightlife locale. **Tutte le informazioni sul progetto
+(prodotto, pacchetti, condizioni, script di vendita, obiezioni, stato tecnico)
+sono in [`docs/aroundly.md`](docs/aroundly.md).**
+
 ## Skill installate: Founder skill pack
 
 In questo progetto sono installate le 11 skill di
