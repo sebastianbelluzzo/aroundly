@@ -1,0 +1,11 @@
+name,type,url,location_or_channel,price_of_comparable_item,what_it_sells,positioning_line,rating,review_count,source_date
+Instagram (profili dei locali + boost),substitute,https://www.instagram.com,app; ogni locale,gratis (organico); boost a pagamento (importo non verificato),post e storie dei locali; promozione a pagamento,n/d,n/d,n/d,2026-10-26
+Gruppi Telegram/WhatsApp e PR,substitute,n/d,canali privati,gratis per il locale; PR pagati a ingresso (importi non pubblici),liste e passaparola,n/d,n/d,n/d,2026-10-26
+Xceed,direct,https://en.wikipedia.org/wiki/Xceed_(company),app; Milano e grandi città europee; Veneto/FVG non confermati,commissione su biglietti (non pubblicata nelle fonti trovate),biglietti; tavoli VIP; liste,marketplace per nightlife; musica live ed eventi,4.5 (Trustpilot),227,2026-10-26
+DICE,indirect,https://dice.fm/venue/hall-padova-evv6,app; presente a Padova (Hall),commissione su biglietti (non pubblicata nelle fonti trovate),biglietti per concerti e serate,app di ticketing contro il bagarinaggio,n/d,n/d,2026-10-26
+Zero.eu,indirect,https://zero.eu/luoghi/234458-factory-club-padova,padova/,sito/magazine; Padova; Venezia; FVG,gratis per l'utente,guida a locali ed eventi,magazine di eventi e locali,n/d,n/d,2026-10-26
+Eventbrite,indirect,https://www.capterra.it/reviews/114949/eventbrite,sito/app; tutte le città,commissioni sui biglietti a pagamento (definite alte in recensioni),biglietteria e scoperta eventi generalista,crea gestisci e promuovi il tuo evento,n/d (Capterra),n/d,2026-10-26
+Fever,indirect,https://feverup.com/it/verona/eventi-musicali,app; Verona; Venezia,biglietti da ~€18 a €169 (tour; concerti Candlelight da ~€28),esperienze; concerti; tour,esperienze in città,n/d,n/d,2026-10-26
+Facebook Events,indirect,https://www.facebook.com/events,app; ogni città,gratis,pagine eventi dei locali,n/d,n/d,n/d,2026-10-26
+Party (app),direct,https://apps.apple.com/to/app/party-app/id6466177765,app iOS; copertura non verificata,n/d,mappa discoteche con eventi; eventi pubblici o su invito,mappa discoteche,n/d,n/d,2026-10-26
+Disco Link,direct,https://apps.apple.com/py/app/disco-link/id6462903257,app iOS; copertura non verificata,n/d,prenotazione tavoli e piste; chat; eventi in corso,prenotazione tavoli in discoteca,n/d,n/d,2026-10-26

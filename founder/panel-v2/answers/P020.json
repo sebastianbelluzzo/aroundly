@@ -1,0 +1,13 @@
+{
+  "id": "P020",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "Instagram already fills my Friday and Saturday nights and it costs me nothing. Free listing is fine, I would not mind them loading my flyers, but I am not paying for something that has no audience yet.",
+  "objection": "Why pay when Instagram already works and is free? I have never heard of this app and nobody in my area uses it, so I cannot see who would actually see my nights.",
+  "would_change_my_mind": "Seeing the app past 2,000 active users in my city, and proof from a venue like mine that it brought people in the door on a Friday that Instagram did not.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 45,
+  "price_too_expensive": 80
+}

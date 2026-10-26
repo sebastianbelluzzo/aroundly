@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I already post every flyer on Instagram and it works well enough, so I don't see why I'd pay for another place to do the same. And it's an app that isn't even public yet, with no users, so who is going to see my events?",
+  "objection": "You're a startup with no users yet. Will you still be around in six months, and I'd be locked into three paid months before I know if anyone opens the app.",
+  "would_change_my_mind": "Seeing the app live with real people using it in my area, and a way to leave after the free month without the 3-month minimum.",
+  "price_too_cheap": 15,
+  "price_cheap": 25,
+  "price_expensive": 50,
+  "price_too_expensive": 80
+}

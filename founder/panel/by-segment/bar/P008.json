@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "A monthly fee with a 3-month minimum is too much for a bar like mine, and my friend already does the Instagram while the PR guys fill the lists. I'd try the free month maybe, but I wouldn't commit to paying.",
+  "objection": "I'd be locked in for 3 months paying a fee before I know if it brings a single extra person through the door. Nobody has shown me numbers from other bars, and the app isn't even public yet.",
+  "would_change_my_mind": "No 3-month minimum (month to month) at the Venue price, plus proof from a few bars that it brings real people in, with clear numbers.",
+  "price_too_cheap": 15,
+  "price_cheap": 30,
+  "price_expensive": 55,
+  "price_too_expensive": 80
+}

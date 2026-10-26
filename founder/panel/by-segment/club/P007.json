@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd happily take the free month because it costs nothing, but I wouldn't commit to a paid 3-month minimum on an app that isn't even public yet. My PR guys already fill the lists and my friend does Instagram, so I'd need to see people actually using it.",
+  "objection": "How many people actually use this app here? A launch with zero users in Friuli and Veneto means I'd pay to be on a map nobody opens.",
+  "would_change_my_mind": "Real numbers: a few thousand active users in my area, or a trial month where I can see people coming through my door because of the app.",
+  "price_too_cheap": 60,
+  "price_cheap": 120,
+  "price_expensive": 250,
+  "price_too_expensive": 400
+}

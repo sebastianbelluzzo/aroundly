@@ -1,38 +1,34 @@
-# Idea: Aroundly
+# Aroundly
 
-**Cos'è:** la prima app dedicata alla nightlife locale. Chi vuole uscire la sera
-la apre e vede cosa succede stasera vicino a lui (discoteche, DJ set, eventi, bar
-con serate) su una mappa e un calendario in tempo reale, con locandina completa
-e acquisto dell'entrata.
+- What it is: an app for local nightlife. People who want to go out open it and
+  see what is on tonight near them (clubs, DJ sets, events, bars with music
+  nights) on a map and a live calendar, with the full flyer (time, DJ, genre,
+  price), and can save, share or buy entry.
+- Who it is for: two sides. **Payers:** owners of nightlife venues in Friuli
+  Venezia Giulia and Veneto (bars with evening events, venues with DJ sets,
+  nightclubs). **Users (free):** people roughly 18 to 35 in the same area who
+  go out at night and today look for events on Instagram, Google, Telegram
+  groups and word of mouth.
+- What it sells, at what price: monthly subscriptions for venues, launch prices
+  (list prices in brackets), plus VAT 22%:
+  - Venue, for bars: €50/month (€80). Profile linked to socials, unlimited
+    events, basic map position, guided setup.
+  - Stage, for venues with DJ sets: €150/month (€220). Closer map position, 2
+    "Recommended" badges a month, follower notifications + 1 area push a month,
+    basic dashboard, partner group, ticket sales.
+  - Headline, for nightclubs: €250/month (€400). 4 events at the top of the home
+    a month, 4 "Trending" badges, advanced map, 4 area pushes, event video
+    trailer, advanced dashboard + PDF report, ticket sales.
+  - Terms: first month free (no card), then 3 paid months minimum, monthly
+    auto-renewal, cancel with 30 days' notice. Launch price locked for early
+    partners. A separate commission on ticket pre-sales (amount not set yet).
+- Where and how: Friuli Venezia Giulia and Veneto, Italy. Sold door to door by
+  the founders with a partner kit (proposal, script, FAQ): first month free,
+  demo on the phone. The app is built on Firebase and hosted on Netlify. Pre-launch:
+  the app is not public yet and has no user base.
+- Budget and constraints: three co-founders. €200 to €1,000 a month of spending
+  (excluding founders' time). No outside funding mentioned. The core risk the
+  founders already know: a two-sided market (venues pay only if there are users,
+  users come only if there are venues).
 
-**Chi paga:** i locali (bar, locali con DJ set, discoteche), con un abbonamento
-mensile. Gli utenti usano l'app gratis.
-
-**Problema:** i locali promuovono le serate su Instagram, dove l'organico
-rende sempre meno, le locandine durano 24 ore e i boost non sono misurabili. Chi
-vuole uscire cerca ovunque e non ha un punto di riferimento unico.
-
-**Offerta attuale (accesso anticipato):**
-- Venue: €50 + IVA/mese (listino €80), per i bar
-- Stage: €150 + IVA/mese (listino €220), per i locali con DJ set
-- Headline: €250 + IVA/mese (listino €400), per le discoteche
-- Primo mese gratuito, poi minimo 3 mesi paganti, poi disdetta con 30 giorni
-  di preavviso
-- Commissione separata sulle prevendite (importo da definire)
-
-**Mercato:** Italia, partendo da una città o zona (da precisare). Nessun
-concorrente dedicato solo alla nightlife locale. Alternative: Instagram,
-Eventbrite, Facebook Events, gruppi Telegram, PR e passaparola.
-
-**Stadio:** pre-lancio. Vendita porta a porta ai locali con kit partner (proposta
-v4, script v4, FAQ v2). App su Firebase e Netlify. Base utenti ancora da
-costruire.
-
-**Domande aperte:**
-- Città di lancio e numero di locali nella zona
-- Come acquisire gli utenti (problema dell'uovo e della gallina: i locali
-  pagano se ci sono utenti, gli utenti arrivano se ci sono i locali)
-- Quanti locali paganti servono per coprire i costi
-- Costi mensili attuali (infrastruttura, tempo, marketing)
-
-Dettagli completi: `docs/aroundly.md`.
+Full details in Italian: `docs/aroundly.md`.

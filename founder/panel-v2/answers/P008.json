@@ -1,0 +1,13 @@
+{
+  "id": "P008",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "timing",
+  "reason": "Free listing sounds fine and I'd let them load my flyers, but I wouldn't pay anything until I see the app actually has people using it in my city. A monthly fee is a cost I have to justify on a bar budget.",
+  "objection": "I've been burned by boosts that give no real numbers. Show me the audience and the stats first; until then 39 euro a month is a guess.",
+  "would_change_my_mind": "Published monthly users above 2,000 in my city, plus proof from another bar that the stats on views and saves match people actually showing up on music nights.",
+  "price_too_cheap": 8,
+  "price_cheap": 19,
+  "price_expensive": 45,
+  "price_too_expensive": 70
+}

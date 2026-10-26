@@ -1,0 +1,13 @@
+{
+  "id": "P017",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Free listing I'd maybe let them put up since they load the flyers themselves and it costs me nothing, but I wouldn't pay for anything. Instagram already fills the room on Friday and Saturday, and you're a startup, I don't know if you'll still be here in six months.",
+  "objection": "You're a startup with no audience yet. Will you still be around in six months, and will anyone in my town actually open the app?",
+  "would_change_my_mind": "Seeing real numbers: a few venues in my city I know who get actual people through the door from the app, and the user count already past 2,000.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 45,
+  "price_too_expensive": 80
+}

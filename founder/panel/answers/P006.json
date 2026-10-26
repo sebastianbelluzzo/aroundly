@@ -1,0 +1,13 @@
+{
+  "id": "P006",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "I fill my nights with PR people, WhatsApp lists and my regulars, not apps. Fifty euro a month plus VAT for three months minimum is real money on my margins, and I don't know if anyone in my town will open an app that isn't even public yet.",
+  "objection": "A monthly fee with a 3-month commitment is too much for a bar like mine, when I don't know if any customers are on the app.",
+  "would_change_my_mind": "Seeing the app already used by people in my area, or a free tier or no minimum commitment so I can just try it with no risk.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 35,
+  "price_too_expensive": 50
+}

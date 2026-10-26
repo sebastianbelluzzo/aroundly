@@ -1,0 +1,13 @@
+{
+  "id": "P001",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "My nights get filled by my PR guys and the WhatsApp lists, not by an app nobody has installed yet. A free month is nice, but I'm not signing a 3-month minimum with a startup that has zero users.",
+  "objection": "You're a startup with no public app yet, so who is actually going to open it? And will you still be around in six months?",
+  "would_change_my_mind": "Proof of real users in my area (thousands of downloads in Friuli/Veneto) and a pilot with no 3-month lock-in, or a couple of other clubs I know already on it.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 200,
+  "price_too_expensive": 350
+}

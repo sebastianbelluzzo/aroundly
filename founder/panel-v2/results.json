@@ -1,0 +1,171 @@
+{
+ "business": "Aroundly, a nightlife app that sells monthly visibility subscriptions to venues",
+ "seed": 7,
+ "dealt": 20,
+ "answered": 20,
+ "skipped": [],
+ "buys": 1,
+ "passes": 19,
+ "buy_rate": 0.05,
+ "by_segment": [
+  [
+   "Owner or manager of a venue with weekly DJ sets",
+   6,
+   0.16666666666666666
+  ],
+  [
+   "Owner or marketing manager of a nightclub",
+   4,
+   0.0
+  ],
+  [
+   "Owner of a bar or pub with music nights a few times a month",
+   10,
+   0.0
+  ]
+ ],
+ "by_behaviour": [
+  [
+   "Data-curious",
+   3,
+   0.3333333333333333
+  ],
+  [
+   "Relies on PR and lists",
+   4,
+   0.0
+  ],
+  [
+   "Burned before",
+   3,
+   0.0
+  ],
+  [
+   "Instagram does it all",
+   5,
+   0.0
+  ],
+  [
+   "Early adopter",
+   2,
+   0.0
+  ],
+  [
+   "Cost cutter",
+   3,
+   0.0
+  ]
+ ],
+ "by_income": [
+  [
+   "$53,000 and up",
+   7,
+   0.14285714285714285
+  ],
+  [
+   "$36,000 to $53,000",
+   7,
+   0.0
+  ],
+  [
+   "under $36,000",
+   6,
+   0.0
+  ]
+ ],
+ "why_not": [
+  [
+   "trust",
+   7,
+   [
+    "Free listing costs me nothing, so I'd maybe let them load my flyers, but I wouldn't pay anything. Instagram already brings my student crowd and I want to see real results before I spend a euro.",
+    "Free listing costs me nothing and they load the flyers themselves, so I'd let them, but I won't pay for anything until I see real users in my city. My Instagram and the PR guys' lists already fill the room."
+   ],
+   [
+    "P005",
+    "P007"
+   ]
+  ],
+  [
+   "habit",
+   6,
+   [
+    "My nights get filled by my PR guys and the WhatsApp lists, not by an app. Free listing I might let them load my flyers, but I'm not paying anyone until I see people actually using it.",
+    "Instagram already fills my room and it costs me nothing. I've paid for promo apps that brought nobody, so I'm not paying anyone until I see real people using it."
+   ],
+   [
+    "P001",
+    "P002"
+   ]
+  ],
+  [
+   "timing",
+   3,
+   [
+    "Free listing sounds fine and I'd let them load my flyers, but I wouldn't pay anything until I see the app actually has people using it in my city. A monthly fee is a cost I have to justify on a bar budget.",
+    "Free listing with flyers loaded for me is fine, I'll take that, but I won't pay anything until there are real users and I have no time for another platform. On my margins a monthly fee gets cut unless it clearly fills the bar."
+   ],
+   [
+    "P008",
+    "P014"
+   ]
+  ],
+  [
+   "need",
+   2,
+   [
+    "My nights fill through my PR people, the WhatsApp lists and the regulars, and a lot of my crowd are students who won't be hunting for flyers on a new app. The free listing costs me nothing, but I wouldn't pay for anything until I see real people using it.",
+    "Free listing I'd take, since they load the flyers themselves and it costs me nothing. But paying €39 for a push and a badge? My Instagram already does the job and my friend handles it."
+   ],
+   [
+    "P004",
+    "P016"
+   ]
+  ],
+  [
+   "price",
+   1,
+   [
+    "Free listing with flyers loaded for me is fine and costs nothing, so I might say yes to that, but I would not pay a monthly fee. My margins are thin and I cut any subscription that doesn't clearly bring in more people at the door."
+   ],
+   [
+    "P010"
+   ]
+  ]
+ ],
+ "why_yes": [
+  [
+   "timing",
+   1,
+   [
+    "Free and they load the flyers themselves, so I'd say yes to the listing since it costs me nothing and no time. I wouldn't pay a cent until I see the app actually has people in my city."
+   ],
+   [
+    "P003"
+   ]
+  ]
+ ],
+ "flip": [
+  "Seeing the app already past 2,000 active users in my city, with other clubs I know on it and proof that people on it actually showed up at their doors.",
+  "Seeing a published user count above 2,000 in my city and a few venues I know saying it actually sent people through the door.",
+  "Published proof of thousands of real monthly users in my city, many of them students, and ticket sales or a feature that brings people my PR and lists don't already reach.",
+  "Seeing the app pass the 2,000 monthly users in my city and a few nearby venues showing real numbers of people who came because of it, with the 500-views guarantee actually honoured.",
+  "Seeing a real, published number of local users and a couple of bars near me who got people through the door from it.",
+  "Published numbers showing well over 2,000 monthly active users in my city, and proof that other clubs near me got real people through the door from it.",
+  "Published monthly users above 2,000 in my city, plus proof from another bar that the stats on views and saves match people actually showing up on music nights.",
+  "Seeing a published user count well past 2,000 in my city and proof that people from the app actually walk in on my DJ nights.",
+  "Proof from another bar in my area that the app filled their nights, plus a result tied to real people at the door, not just views.",
+  "Seeing real numbers, past the 2,000 users, and proof from another venue near me that the app brought people through the door who didn't come from Instagram.",
+  "Proof, from a venue like mine, that the paid push brought in more paying customers than it cost, with no work from me.",
+  "A published monthly active user count well past 2,000 in my city, and a nearby club telling me the app actually brought people through the door.",
+  "Proof from my own venue's numbers that the app brought paying customers on music nights, with zero work from me, and a price under what one extra night of takings covers.",
+  "Seeing the published user number pass 2,000 in my city and a few venues like mine getting real views and ticket sales from it.",
+  "Seeing the app really full of people in my city, and proof that my nights get people through the door, before I pay anything.",
+  "Seeing real numbers: a few venues in my city I know who get actual people through the door from the app, and the user count already past 2,000.",
+  "The published monthly active users in my city passing 2,000, plus a sample stats report showing real views, saves and shares per night that I can compare against what I get from Instagram.",
+  "Seeing the app pass 2,000 monthly users in my city and a few bars nearby telling me it actually filled their nights.",
+  "Seeing the app past 2,000 active users in my city, and proof from a venue like mine that it brought people in the door on a Friday that Instagram did not."
+ ],
+ "purchases_first_month_per_buyer": 1.0,
+ "price_answers": 20
+}

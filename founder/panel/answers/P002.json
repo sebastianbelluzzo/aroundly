@@ -1,0 +1,13 @@
+{
+  "id": "P002",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I've already paid for a promo platform that brought nobody, and Instagram does the job for free. An app that isn't even public yet has no users, so why would I pay for it?",
+  "objection": "It's a new app with no audience. I'd be paying €150 a month, with a 3-month minimum, to be shown to nobody.",
+  "would_change_my_mind": "Proof of real users in my area, such as a few thousand people already using it in Friuli, or a couple of venues like mine saying it filled their nights. Or a free or pay-per-ticket deal with no minimum.",
+  "price_too_cheap": 30,
+  "price_cheap": 60,
+  "price_expensive": 120,
+  "price_too_expensive": 200
+}

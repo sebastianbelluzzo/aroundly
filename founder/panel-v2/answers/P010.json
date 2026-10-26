@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Free listing with flyers loaded for me is fine and costs nothing, so I might say yes to that, but I would not pay a monthly fee. My margins are thin and I cut any subscription that doesn't clearly bring in more people at the door.",
+  "objection": "You're a startup, will you still be around in six months? And how do I know the app will bring customers to my bar rather than just views?",
+  "would_change_my_mind": "Proof from another bar in my area that the app filled their nights, plus a result tied to real people at the door, not just views.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 35,
+  "price_too_expensive": 60
+}

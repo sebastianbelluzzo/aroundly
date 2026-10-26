@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I've paid for promo apps before that brought me nobody, and this one isn't even public yet. I'm not committing to a 3-month minimum on a platform with no users I can see.",
+  "objection": "How many people actually use this app here? A launch price means nothing to me if the crowd isn't on it, and I'd be locked in for 3 months.",
+  "would_change_my_mind": "Real proof of downloads and active users in my area, or a no-commitment month-to-month trial where I only pay once it has brought people through my door.",
+  "price_too_cheap": 40,
+  "price_cheap": 90,
+  "price_expensive": 180,
+  "price_too_expensive": 300
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P011",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "habit",
+  "reason": "I already put every flyer on Instagram and stories and it works well enough, and my friend does it for me. I don't need another place to post, and I'm not paying for an app nobody is using yet.",
+  "objection": "How many people actually use this app here? It's not even public yet, so I'd pay €50 a month plus a 3-month minimum for an empty app.",
+  "would_change_my_mind": "Seeing real numbers of local users in my area, and a few venues I know already on it getting people through the door. Then I would take the free month and see.",
+  "price_too_cheap": 10,
+  "price_cheap": 20,
+  "price_expensive": 40,
+  "price_too_expensive": 70
+}

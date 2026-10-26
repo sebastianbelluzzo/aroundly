@@ -1,0 +1,80 @@
+{
+  "business": "Aroundly, modello v2: gratis per i locali, Pro 39 / Club 119 dopo 2.000 utenti attivi",
+  "unit": "locale pagante al mese",
+  "price": 63,
+  "variable": [
+    {
+      "label": "Commissione carta Stripe (1,5% + 0,25 EUR, stima)",
+      "cost": 1.2
+    },
+    {
+      "label": "Infrastruttura per locale (stima)",
+      "cost": 1.0
+    }
+  ],
+  "fixed_monthly": [
+    {
+      "label": "Firebase Blaze (stima a basso traffico)",
+      "cost": 25
+    },
+    {
+      "label": "Netlify Pro (20 USD)",
+      "cost": 19
+    },
+    {
+      "label": "Apple Developer (99 EUR/anno) + dominio",
+      "cost": 10
+    },
+    {
+      "label": "Commercialista (stima)",
+      "cost": 80
+    },
+    {
+      "label": "Marketing verso gli utenti in una citta (stima)",
+      "cost": 450
+    },
+    {
+      "label": "Materiali stampati, telefono, strumenti (stima)",
+      "cost": 50
+    }
+  ],
+  "startup": [
+    {
+      "label": "Costituzione societa tre soci (stima)",
+      "cost": 2000
+    },
+    {
+      "label": "Privacy policy e documenti GDPR (stima)",
+      "cost": 300
+    },
+    {
+      "label": "Google Play (25 USD)",
+      "cost": 23
+    },
+    {
+      "label": "Kit partner stampati (stima)",
+      "cost": 150
+    },
+    {
+      "label": "Lancio verso gli utenti, eventi e ads (stima)",
+      "cost": 500
+    }
+  ],
+  "days_per_month": 1,
+  "capacity_per_day": 150,
+  "plan_per_day": 40,
+  "ramp_per_day": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    3,
+    6,
+    9,
+    12,
+    15,
+    18,
+    22
+  ]
+}

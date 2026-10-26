@@ -1,0 +1,222 @@
+[
+ {
+  "id": "P001",
+  "name": "Omar",
+  "age": 26,
+  "segment": "Owner or marketing manager of a nightclub",
+  "income": 84000,
+  "behaviour": "Relies on PR and lists",
+  "behaviour_how": "Fills nights through PR people, WhatsApp/Telegram lists and regulars, not online ads.",
+  "objection": "You're a startup, will you still be around in six months?",
+  "habit": "a friend handles your Instagram and a couple of PR guys fill the lists"
+ },
+ {
+  "id": "P002",
+  "name": "Raj",
+  "age": 42,
+  "segment": "Owner or manager of a venue with weekly DJ sets",
+  "income": 45000,
+  "behaviour": "Burned before",
+  "behaviour_how": "Has paid for an app or a promo platform that brought nobody, and is wary of salespeople.",
+  "objection": "Instagram already works for me and it is free",
+  "habit": "you spend a few hundred euro a month on flyers, boosts or PR"
+ },
+ {
+  "id": "P003",
+  "name": "Emil",
+  "age": 49,
+  "segment": "Owner or manager of a venue with weekly DJ sets",
+  "income": 56000,
+  "behaviour": "Data-curious",
+  "behaviour_how": "Wants to know what works; frustrated that boosts give no real numbers.",
+  "objection": "I don't have time to manage another platform",
+  "habit": "a friend handles your Instagram and a couple of PR guys fill the lists"
+ },
+ {
+  "id": "P004",
+  "name": "Owen",
+  "age": 58,
+  "segment": "Owner or marketing manager of a nightclub",
+  "income": 117000,
+  "behaviour": "Relies on PR and lists",
+  "behaviour_how": "Fills nights through PR people, WhatsApp/Telegram lists and regulars, not online ads.",
+  "objection": "My competitors will be on it too, so what do I gain?",
+  "habit": "a big part of your crowd are university students"
+ },
+ {
+  "id": "P005",
+  "name": "Sana",
+  "age": 29,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 34000,
+  "behaviour": "Instagram does it all",
+  "behaviour_how": "Posts every flyer on Instagram and stories, sometimes boosts, and thinks it works well enough.",
+  "objection": "I'd want to see real results before paying anything",
+  "habit": "a big part of your crowd are university students"
+ },
+ {
+  "id": "P006",
+  "name": "Maya",
+  "age": 51,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 33000,
+  "behaviour": "Relies on PR and lists",
+  "behaviour_how": "Fills nights through PR people, WhatsApp/Telegram lists and regulars, not online ads.",
+  "objection": "A monthly fee with a 3-month commitment is too much for a bar like mine",
+  "habit": "you are behind the bar most evenings and do the social media yourself after closing"
+ },
+ {
+  "id": "P007",
+  "name": "Selin",
+  "age": 56,
+  "segment": "Owner or marketing manager of a nightclub",
+  "income": 94000,
+  "behaviour": "Early adopter",
+  "behaviour_how": "Likes trying new tools and being first in town.",
+  "objection": "How many people actually use this app here?",
+  "habit": "a friend handles your Instagram and a couple of PR guys fill the lists"
+ },
+ {
+  "id": "P008",
+  "name": "Ruby",
+  "age": 30,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 45000,
+  "behaviour": "Data-curious",
+  "behaviour_how": "Wants to know what works; frustrated that boosts give no real numbers.",
+  "objection": "A monthly fee with a 3-month commitment is too much for a bar like mine",
+  "habit": "a friend handles your Instagram and a couple of PR guys fill the lists"
+ },
+ {
+  "id": "P009",
+  "name": "Nora",
+  "age": 33,
+  "segment": "Owner or manager of a venue with weekly DJ sets",
+  "income": 47000,
+  "behaviour": "Relies on PR and lists",
+  "behaviour_how": "Fills nights through PR people, WhatsApp/Telegram lists and regulars, not online ads.",
+  "objection": "How many people actually use this app here?",
+  "habit": "you are behind the bar most evenings and do the social media yourself after closing"
+ },
+ {
+  "id": "P010",
+  "name": "Fatima",
+  "age": 26,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 36000,
+  "behaviour": "Cost cutter",
+  "behaviour_how": "Margins are thin; any new monthly fee is cut unless it clearly pays for itself.",
+  "objection": "You're a startup, will you still be around in six months?",
+  "habit": "you are behind the bar most evenings and do the social media yourself after closing"
+ },
+ {
+  "id": "P011",
+  "name": "Tariq",
+  "age": 49,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 37000,
+  "behaviour": "Instagram does it all",
+  "behaviour_how": "Posts every flyer on Instagram and stories, sometimes boosts, and thinks it works well enough.",
+  "objection": "How many people actually use this app here?",
+  "habit": "a friend handles your Instagram and a couple of PR guys fill the lists"
+ },
+ {
+  "id": "P012",
+  "name": "Felix",
+  "age": 50,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 28000,
+  "behaviour": "Cost cutter",
+  "behaviour_how": "Margins are thin; any new monthly fee is cut unless it clearly pays for itself.",
+  "objection": "I don't have time to manage another platform",
+  "habit": "your busiest nights are Friday and Saturday, weekdays are slow"
+ },
+ {
+  "id": "P013",
+  "name": "Zoe",
+  "age": 49,
+  "segment": "Owner or marketing manager of a nightclub",
+  "income": 83000,
+  "behaviour": "Burned before",
+  "behaviour_how": "Has paid for an app or a promo platform that brought nobody, and is wary of salespeople.",
+  "objection": "How many people actually use this app here?",
+  "habit": "you spend a few hundred euro a month on flyers, boosts or PR"
+ },
+ {
+  "id": "P014",
+  "name": "Dev",
+  "age": 55,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 35000,
+  "behaviour": "Cost cutter",
+  "behaviour_how": "Margins are thin; any new monthly fee is cut unless it clearly pays for itself.",
+  "objection": "I don't have time to manage another platform",
+  "habit": "you are behind the bar most evenings and do the social media yourself after closing"
+ },
+ {
+  "id": "P015",
+  "name": "Yusuf",
+  "age": 35,
+  "segment": "Owner or manager of a venue with weekly DJ sets",
+  "income": 39000,
+  "behaviour": "Early adopter",
+  "behaviour_how": "Likes trying new tools and being first in town.",
+  "objection": "I don't have time to manage another platform",
+  "habit": "a big part of your crowd are university students"
+ },
+ {
+  "id": "P016",
+  "name": "Theo",
+  "age": 42,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 35000,
+  "behaviour": "Instagram does it all",
+  "behaviour_how": "Posts every flyer on Instagram and stories, sometimes boosts, and thinks it works well enough.",
+  "objection": "My competitors will be on it too, so what do I gain?",
+  "habit": "a friend handles your Instagram and a couple of PR guys fill the lists"
+ },
+ {
+  "id": "P017",
+  "name": "Alma",
+  "age": 27,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 29000,
+  "behaviour": "Instagram does it all",
+  "behaviour_how": "Posts every flyer on Instagram and stories, sometimes boosts, and thinks it works well enough.",
+  "objection": "You're a startup, will you still be around in six months?",
+  "habit": "your busiest nights are Friday and Saturday, weekdays are slow"
+ },
+ {
+  "id": "P018",
+  "name": "Freya",
+  "age": 35,
+  "segment": "Owner or manager of a venue with weekly DJ sets",
+  "income": 59000,
+  "behaviour": "Data-curious",
+  "behaviour_how": "Wants to know what works; frustrated that boosts give no real numbers.",
+  "objection": "How many people actually use this app here?",
+  "habit": "you compare yourself with two other venues in the same town"
+ },
+ {
+  "id": "P019",
+  "name": "Harper",
+  "age": 45,
+  "segment": "Owner of a bar or pub with music nights a few times a month",
+  "income": 45000,
+  "behaviour": "Burned before",
+  "behaviour_how": "Has paid for an app or a promo platform that brought nobody, and is wary of salespeople.",
+  "objection": "I'd want to see real results before paying anything",
+  "habit": "you are behind the bar most evenings and do the social media yourself after closing"
+ },
+ {
+  "id": "P020",
+  "name": "Emma",
+  "age": 42,
+  "segment": "Owner or manager of a venue with weekly DJ sets",
+  "income": 53000,
+  "behaviour": "Instagram does it all",
+  "behaviour_how": "Posts every flyer on Instagram and stories, sometimes boosts, and thinks it works well enough.",
+  "objection": "Instagram already works for me and it is free",
+  "habit": "your busiest nights are Friday and Saturday, weekdays are slow"
+ }
+]
