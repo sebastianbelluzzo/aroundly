@@ -1,0 +1,13 @@
+{
+  "id": "P012",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "price",
+  "reason": "Free listing I'd let you do if you really load the flyers yourselves, but I'm not paying a monthly fee for an app with 500 people on a waitlist. My margins are thin and any new fee gets cut unless it clearly pays for itself.",
+  "objection": "I don't have time to manage another platform, and I can't see how 39 euro a month fills my bar on a Tuesday when my busy nights, Friday and Saturday, are full anyway.",
+  "would_change_my_mind": "Seeing the app really past 2,000 active users in my city and a few bars I know showing me extra people through the door because of it, with the first months free.",
+  "price_too_cheap": 5,
+  "price_cheap": 15,
+  "price_expensive": 30,
+  "price_too_expensive": 50
+}

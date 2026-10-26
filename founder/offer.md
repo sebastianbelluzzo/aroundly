@@ -89,3 +89,49 @@ board: il problema è il mercato a due lati, non il prezzo.
 
 Sono acquirenti simulati: tendono a essere accomodanti, quindi i numeri sono un
 massimo. Va confermato con locali veri (vedi `launch.md`).
+
+## 6. La lista d'attesa nel pitch ai locali (panel v3)
+
+Quando andiamo a proporre Aroundly ai locali avremo **una lista d'attesa di
+utenti della città**, raccolta prima delle visite. Nel pitch mostriamo il
+**conteggio in tempo reale** sul telefono e diciamo che quelle persone
+riceveranno una notifica il giorno del lancio con le serate in programma. Lo
+abbiamo testato sugli stessi 20 proprietari (seed 7) con una lista di **500
+iscritti** (`pitch.md`, `panel-v3/`).
+
+| | v1 | v2 | **v3 (con lista d'attesa 500)** |
+| --- | ---: | ---: | ---: |
+| Pagherebbero subito un piano | 1 su 20 | 0 su 20* | **0 su 20*** |
+| Accettano l'inserimento gratuito | — | 19 su 20 | **20 su 20** (9 sì decisi, 11 "forse") |
+| Motivo principale del no | fiducia 11 | fiducia 7 | fiducia 10 |
+| Prezzo "equo" (IPP) | €56 | €25 | **€30** |
+| Fascia accettabile | €26–91 | €12–60 | €12–60 |
+
+\* I piani si attivano solo dopo 2.000 utenti attivi. Il tool conta "2 compra"
+nel panel v3: sono due proprietari che hanno contato l'inserimento gratuito
+come acquisto.
+
+**Cosa cambia la lista d'attesa:**
+- **Apre la porta.** Tutti e 20 accetterebbero l'inserimento gratuito. Il "sì"
+  diventa più concreto: "I'd say yes to the free listing" (P006), "I'd take the
+  free listing since it costs me nothing and I like being first" (P007).
+- **Non convince a pagare.** La frase più ripetuta è che una lista non è un
+  pubblico: "500 sign-ups in a city is a list, not an audience" (P018);
+  "500 people on a waitlist isn't customers walking into my bar" (P008); "500
+  is nothing next to my lists" (P001, discoteca con PR).
+- **Il prezzo equo sale** da €25 a €30: con un pubblico visibile accettano di
+  più. Conferma il test Pro €29 contro €39.
+
+**Come usarla al meglio (conseguenze per il piano):**
+1. **Usarla per gli inserimenti gratuiti, non per vendere.** La soglia per
+   pagare resta 2.000 utenti attivi al mese, non iscritti.
+2. **Mostrare la lista divisa e viva:** iscritti della città, quanti hanno meno
+   di 30 anni, quanti sono universitari, quanti si sono iscritti questa
+   settimana. Un numero che cresce convince più di un numero fermo.
+3. **Collegarla al locale:** "Il giorno del lancio queste persone ricevono la
+   notifica con le serate, comprese le tue." È il primo pubblico concreto.
+4. **Puntare più in alto di 500:** per le discoteche con PR e liste, 500 è
+   meno delle loro liste. Obiettivo **1.000 iscritti** prima di visitare le
+   discoteche; per i bar bastano 300–500.
+5. **Bonus 4, "Sei davanti alla lista d'attesa":** chi entra prima del lancio
+   compare nella prima notifica a tutta la lista d'attesa.

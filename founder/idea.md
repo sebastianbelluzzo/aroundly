@@ -24,7 +24,8 @@
     partners. A separate commission on ticket pre-sales (amount not set yet).
 - Where and how: Friuli Venezia Giulia and Veneto, Italy. Sold door to door by
   the founders with a partner kit (proposal, script, FAQ): first month free,
-  demo on the phone. The app is built on Firebase and hosted on Netlify. Pre-launch:
+  demo on the phone. When the founders pitch venues they will already have a
+  waitlist of users in that city to show. The app is built on Firebase and hosted on Netlify. Pre-launch:
   the app is not public yet and has no user base.
 - Budget and constraints: three co-founders. €200 to €1,000 a month of spending
   (excluding founders' time). No outside funding mentioned. The core risk the

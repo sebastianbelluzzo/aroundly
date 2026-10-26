@@ -138,13 +138,24 @@ concordata. Note da prendere: nome e contatto, tipo di locale, pacchetto
 proposto, obiezioni, data del prossimo contatto, interesse da 1 a 5. Dopo 5–6
 appuntamenti si rileggono le note per trovare gli schemi ricorrenti.
 
+### Novità: la lista d'attesa nel pitch
+
+Quando andiamo a proporre Aroundly ai locali avremo già una **lista d'attesa**
+di utenti della città, aperta prima delle visite. Nella fase **Demo** si mostra
+sul telefono il conteggio in tempo reale (totale, under 30, universitari, nuovi
+della settimana) e si dice: "Il giorno del lancio queste persone ricevono le
+serate in programma, comprese le tue." Risponde in parte a "Quanti utenti
+avete?": serve a far entrare il locale gratis, non a farlo pagare (vedi
+`founder/offer.md`, sezione 6). Obiettivo: 300 iscritti prima delle visite ai
+bar, 1.000 prima delle discoteche.
+
 ## 6. Obiezioni e risposte
 
 | Obiezione | Risposta |
 | --- | --- |
 | "Non ho tempo per un'altra piattaforma" | Il setup lo facciamo noi; poi una serata si carica in 2 minuti, come un post |
 | "Ho già Instagram e funziona" | Aroundly lo affianca: profilo collegato, è un canale in più |
-| "Non so se i miei clienti la usano" / "Quanti utenti avete?" | Siamo in lancio e non lo nascondiamo: chi entra ora cresce con l'app, ha meno concorrenti sulla mappa e blocca il prezzo più basso |
+| "Non so se i miei clienti la usano" / "Quanti utenti avete?" | Mostrare il conteggio della lista d'attesa della città. Poi: siamo in lancio e non lo nascondiamo; l'inserimento è gratis e si paga solo dopo 2.000 utenti attivi al mese |
 | "Il prezzo è alto" | Il primo mese è gratis, rischio zero; lo sconto è solo per i primi partner |
 | "Devo sentire il socio / commercialista" | Fissiamo una chiamata con lui la prossima settimana |
 | "Siete giovani, reggerete?" | Siamo una startup: per questo primo mese gratis e solo 3 mesi di impegno |

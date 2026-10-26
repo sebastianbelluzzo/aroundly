@@ -31,8 +31,8 @@ compra (dopo la verifica fiscale).
 utente), non di prezzo. Concorrenza: nessuno mette in un posto tutte le serate
 di una città veneta o friulana, anche quelle gratis e dei bar; Xceed e DICE
 fanno solo biglietti, soprattutto nelle grandi città. Nel 2025 le discoteche del
-FVG hanno fatto 3.119 eventi e €11,9 milioni di incassi (SIAE). Nessun test
-reale ancora fatto.
+FVG hanno fatto 3.119 eventi e €11,9 milioni di incassi (SIAE). Con una lista d'attesa di 500 iscritti mostrata nel pitch, 20 proprietari
+simulati su 20 accettano l'inserimento gratuito. Nessun test reale ancora fatto.
 
 **A cosa servono i soldi.** ~€7.000 dai tre soci: costituzione della società e
 documenti privacy (~€2.300), store e kit (~€170), lancio (~€500), costi mensili
@@ -40,5 +40,5 @@ fino al pareggio (marketing utenti ~€450 al mese, infrastruttura,
 commercialista).
 
 **La richiesta.** Nessuna richiesta esterna per ora. Il prossimo passo è interno:
-backend sistemato entro il 1° novembre, 30 locali su 50 e 500 iscritti alla
-lista d'attesa entro fine novembre, lancio a Padova il 3 dicembre 2026.
+backend sistemato entro il 1° novembre, lista d'attesa aperta il 2 novembre
+(300 iscritti prima delle visite, 1.000 entro fine mese), 30 locali su 50, lancio a Padova il 3 dicembre 2026.

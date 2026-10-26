@@ -82,3 +82,10 @@ Con l'inserimento gratuito e i piani Pro €39 / Club €119 attivi solo dopo
 con il prezzo "equo" (IPP) a **€25** (`panel-v2/pricing-curve.md`). €39 è
 dentro la fascia ma sopra il punto di equilibrio: **il test Pro €29 contro €39
 diventa la prima cosa da provare** quando la città arriva alla soglia.
+
+## 9. Con la lista d'attesa nel pitch (panel v3)
+
+Mostrando una lista d'attesa di 500 iscritti, la fascia resta **€12 → €60** ma
+il prezzo equo (IPP) sale a **€30** e il punto di minor resistenza a €15
+(`panel-v3/pricing-curve.md`). Nessuno paga prima della soglia: la lista
+d'attesa alza un po' il prezzo accettabile, non il tasso d'acquisto.

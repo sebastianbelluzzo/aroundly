@@ -35,10 +35,31 @@ Per i **locali**:
 | ❌ Google Ads | Nessuno cerca "app serate" | — | — |
 | ❌ Influencer a pagamento | Budget troppo piccolo | — | — |
 
-## 3. Campagna 30 giorni (lancio utenti giovedì 3 dicembre 2026)
+## 3. La lista d'attesa (prima di tutto)
+
+Quando andiamo a proporre Aroundly ai locali avremo già una **lista d'attesa**
+di utenti della città. È il primo numero da mostrare nel pitch e il primo
+pubblico da notificare il giorno del lancio.
+
+- **Dove si raccoglie:** pagina "Stasera a Padova" (link in bio), sito
+  aroundly.app, QR in università e nei primi locali, ambassador.
+- **Cosa si chiede:** email o telefono, città, fascia d'età, universitario sì/no,
+  generi preferiti. Così nel pitch si mostra un numero diviso, non solo il totale.
+- **Cosa si promette:** accesso al lancio e la notifica con le serate del primo
+  weekend. Niente premi finti né numeri gonfiati.
+- **Obiettivi:** 300 iscritti entro il 9 novembre (inizio visite ai bar), 1.000
+  entro il 29 novembre (visite alle discoteche, che hanno liste PR più grandi).
+- **Nel pitch ai locali:** conteggio in tempo reale sul telefono e la frase "Il
+  giorno del lancio queste persone ricevono le serate in programma, comprese le
+  tue." Il panel v3 dice che apre la porta all'inserimento gratuito ma non
+  convince a pagare: "500 sign-ups is a list, not an audience" (P018).
+
+## 4. Campagna 30 giorni (lancio utenti giovedì 3 dicembre 2026)
 
 | Data | Canale | Cosa |
 | --- | --- | --- |
+| lun 2 nov | Instagram, sito | Apertura lista d'attesa: "Stiamo mettendo tutte le serate di Padova in un'app. Entra per primo." |
+| 2 – 29 nov | Tutti | Conteggio pubblico della lista d'attesa nelle storie ogni settimana |
 | gio 19 nov | Instagram | Prima "Stasera a Padova" (lista manuale di 10 serate) |
 | ven 20 – sab 21 nov | Instagram, storie | Le serate del weekend, link alla lista d'attesa |
 | lun 23 nov | Ambassador | Briefing e codici invito |
@@ -52,7 +73,7 @@ Per i **locali**:
 | 18–31 dic | Tutti | Speciale feste e Capodanno: tutte le serate in un posto |
 | ogni gio–sab | Instagram | "Stasera a Padova" (contenuto fisso quando non c'è niente di nuovo) |
 
-## 4. Dieci hook
+## 5. Dieci hook
 
 Ognuno risponde a un dubbio emerso (per gli utenti) o a un'obiezione del panel
 (per i locali).
@@ -69,9 +90,11 @@ Locali:
 7. "Gratis. Le locandine le carichiamo noi." (P014: "no time")
 8. "Paghi solo quando ti portiamo pubblico: il numero è pubblico." (P001: "how many people")
 9. "Nessun vincolo. Mese per mese." (P008: "3-month minimum")
+   — e, nella visita: "Guarda: 640 persone di Padova aspettano l'app. Il giorno del
+   lancio vedono le tue serate." (numero reale del momento, mai inventato)
 10. "Se il mese non funziona, non lo paghi." (P002: "brought nobody")
 
-## 5. Budget e numeri
+## 6. Budget e numeri
 
 - **Budget:** €450/mese (dentro il budget dei soci): €150 sponsorizzate, €100
   stampa QR e volantini, €200 serata di lancio e premi ambassador.
@@ -79,12 +102,14 @@ Locali:
   mese (CFO). Se resta 6 mesi vale ~€365: si possono spendere fino a ~€120 per
   conquistarlo (un terzo del valore). Per un utente, oggi, il valore non è
   misurabile: si spende per arrivare alla soglia di 2.000.
-- **Tre numeri da guardare ogni settimana:**
-  1. **Utenti attivi settimanali** a Padova (obiettivo: 2.000 attivi al mese
+- **Quattro numeri da guardare ogni settimana:**
+  1. **Iscritti alla lista d'attesa** (prima del lancio): 300 al 9 nov, 1.000 al
+     29 nov. Dopo il lancio: quota che installa l'app (obiettivo ≥ 50%).
+  2. **Utenti attivi settimanali** a Padova (obiettivo: 2.000 attivi al mese
      entro fine febbraio 2027). Allarme: meno di 300 a fine dicembre.
-  2. **Copertura del calendario**: % delle serate reali della città presenti
+  3. **Copertura del calendario**: % delle serate reali della città presenti
      in app (obiettivo ≥ 80% ogni weekend). Allarme: sotto 60%.
-  3. **Salvataggi + condivisioni per serata** (il segnale che interessa ai
+  4. **Salvataggi + condivisioni per serata** (il segnale che interessa ai
      locali). Allarme: sotto 5 per serata in media dopo un mese.
 
 Niente recensioni, numeri o testimonianze inventate; le citazioni del panel non

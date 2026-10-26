@@ -1,0 +1,89 @@
+{
+ "n": 20,
+ "seed": 7,
+ "customer": {
+  "business": "Aroundly, a nightlife app that sells monthly visibility subscriptions to venues",
+  "target": "owners or managers of nightlife venues (bars with evening events, venues with DJ sets, nightclubs) in Friuli Venezia Giulia and Veneto, Italy. All money is in euro; when asked for prices, answer the monthly fee in euro (excluding VAT) for the package that fits your venue",
+  "where": "Friuli Venezia Giulia and Veneto (Padova, Treviso, Venezia-Mestre, Verona, Vicenza, Udine, Trieste, Pordenone)",
+  "age": [
+   26,
+   58
+  ],
+  "segments": [
+   {
+    "name": "Owner of a bar or pub with music nights a few times a month",
+    "share": 0.5,
+    "income": [
+     25000,
+     45000
+    ]
+   },
+   {
+    "name": "Owner or manager of a venue with weekly DJ sets",
+    "share": 0.3,
+    "income": [
+     35000,
+     70000
+    ]
+   },
+   {
+    "name": "Owner or marketing manager of a nightclub",
+    "share": 0.2,
+    "income": [
+     50000,
+     120000
+    ]
+   }
+  ],
+  "behaviours": [
+   {
+    "name": "Instagram does it all",
+    "share": 0.25,
+    "how": "Posts every flyer on Instagram and stories, sometimes boosts, and thinks it works well enough."
+   },
+   {
+    "name": "Relies on PR and lists",
+    "share": 0.2,
+    "how": "Fills nights through PR people, WhatsApp/Telegram lists and regulars, not online ads."
+   },
+   {
+    "name": "Cost cutter",
+    "share": 0.15,
+    "how": "Margins are thin; any new monthly fee is cut unless it clearly pays for itself."
+   },
+   {
+    "name": "Data-curious",
+    "share": 0.15,
+    "how": "Wants to know what works; frustrated that boosts give no real numbers."
+   },
+   {
+    "name": "Early adopter",
+    "share": 0.1,
+    "how": "Likes trying new tools and being first in town."
+   },
+   {
+    "name": "Burned before",
+    "share": 0.15,
+    "how": "Has paid for an app or a promo platform that brought nobody, and is wary of salespeople."
+   }
+  ],
+  "objections": [
+   "How many people actually use this app here?",
+   "Instagram already works for me and it is free",
+   "I don't have time to manage another platform",
+   "A monthly fee with a 3-month commitment is too much for a bar like mine",
+   "You're a startup, will you still be around in six months?",
+   "My competitors will be on it too, so what do I gain?",
+   "I'd want to see real results before paying anything"
+  ],
+  "habits": [
+   "you are behind the bar most evenings and do the social media yourself after closing",
+   "a friend handles your Instagram and a couple of PR guys fill the lists",
+   "your busiest nights are Friday and Saturday, weekdays are slow",
+   "you spend a few hundred euro a month on flyers, boosts or PR",
+   "you compare yourself with two other venues in the same town",
+   "a big part of your crowd are university students"
+  ]
+ },
+ "pitch": "Aroundly, a new app for nightlife in Friuli and Veneto, starting in one city: people open it and see every night out happening tonight near them, on a map and a calendar, with the full flyer (time, DJ, genre, price), and can save, share or buy entry.\nBefore launch, people in your city sign up to a waitlist for the app. When we meet you, we show you the live count: today 500 people in your city have joined it, and they will get a notification on launch day with the nights that are on.\nFor venues, listing is free, forever: official profile linked to your socials, all your nights on the map and calendar, in front of the waitlist from day one. We load your flyers for you from Instagram; you don't have to do anything.\nYou pay only once the app has an audience in your city: we publish the number of monthly active users, and paid plans switch on only after it passes 2,000. Until then, every venue is free.\nPaid plans, month to month, no minimum, cancel any time: Pro €39/month + VAT (featured nights, \"Recommended\" badge, push to nearby users, stats on views, saves and shares for every night). Club €119/month + VAT (top of the home on your nights, area pushes, advanced stats, monthly report). Founding partners who join now keep these prices for 12 months.\nGuarantee: if in a paid month your nights get fewer than 500 views in the app, that month is free. Ticket sales in the app: €0.50 per ticket, paid by the buyer, no monthly fee."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "P007",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "I'd take the free listing since it costs me nothing and I like being first, but I wouldn't commit to a paid plan on a promise. 500 signups in the city is a small room, and my friend and the PR guys already fill my nights.",
+  "objection": "How many people actually use this app here? 500 on a waitlist isn't 2,000 active users, and I won't pay until I see it working for other venues.",
+  "would_change_my_mind": "Seeing the published monthly active users pass 2,000 and a couple of venues like mine showing real views and ticket sales in the stats.",
+  "price_too_cheap": 15,
+  "price_cheap": 39,
+  "price_expensive": 99,
+  "price_too_expensive": 179
+}

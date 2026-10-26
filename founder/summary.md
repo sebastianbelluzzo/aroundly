@@ -22,6 +22,13 @@ nessun locale paga (11 no su 20 per "fiducia"). Con l'offerta nuova (gratis,
 paghi dopo 2.000 utenti, nessun vincolo) 19 locali su 20 accettano di entrare
 gratis: il calendario si può riempire.
 
+**La lista d'attesa:** quando andiamo dai locali avremo già una lista d'attesa
+di utenti della città, da mostrare nel pitch. Testata su 20 proprietari con 500
+iscritti: tutti e 20 accetterebbero l'inserimento gratuito (9 con un sì deciso),
+nessuno pagherebbe prima della soglia ("500 sign-ups is a list, not an
+audience"). Obiettivo: 300 iscritti prima delle visite ai bar, 1.000 prima
+delle discoteche.
+
 **Dove non sono d'accordo:** il board vuole meno funzioni e un solo piano
 pagante; il panel di discoteche accetterebbe un piano più ricco (€119). Il
 prezzo giusto per i bar (€25–39) va trovato con un test.
@@ -32,8 +39,10 @@ dai soci, contenuto "Stasera a Padova", ambassador universitari, QR nei locali;
 soglia d'allarme a 300 attivi a fine dicembre.
 
 **Per partire servono:** ~€7.000 tra i tre soci (circa €2.300 a testa), il
-backend sistemato, e due test a novembre: ≥ 30 locali su 50 accettano
-l'inserimento gratuito, ≥ 500 iscritti alla lista d'attesa.
+backend sistemato, e due test a novembre, in quest'ordine: prima la lista
+d'attesa (≥ 300 iscritti entro il 9 novembre, ≥ 1.000 entro il 29), poi le
+visite con il conteggio in mano (≥ 30 locali su 50 accettano l'inserimento
+gratuito).
 
 **La cosa da fare questa settimana:** sistemare le regole di sicurezza di
 Firebase e rimettere in funzione l'app. Senza, nient'altro può partire.

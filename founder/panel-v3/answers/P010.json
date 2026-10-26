@@ -1,0 +1,13 @@
+{
+  "id": "P010",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Free listing is fine, I'd let them load my flyers, but I'm not paying anything for a startup that may be gone in six months. My margins are thin and a new monthly fee gets cut unless it clearly brings people in.",
+  "objection": "You're a startup, will you still be around in six months? 500 people on a waitlist is not an audience, and I won't pay until I see real crowds coming through the door because of the app.",
+  "would_change_my_mind": "Seeing the app pass 2,000 monthly users in my city, and proof from another venue that it filled their nights, so the fee clearly pays for itself.",
+  "price_too_cheap": 9,
+  "price_cheap": 19,
+  "price_expensive": 39,
+  "price_too_expensive": 59
+}

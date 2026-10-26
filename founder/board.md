@@ -49,6 +49,10 @@ non parlano a loro nome. Memo completi in `founder/board/`.
       città (eventi pubblici, gratis per i locali) per almeno un mese di
       weekend, poi misurare utenti attivi settimanali, salvataggi e
       condivisioni. (launch, marketing)
+- [ ] **Lista d'attesa prima delle visite ai locali** (aggiunta dai soci):
+      300 iscritti per i bar, 1.000 per le discoteche; il conteggio si mostra
+      nel pitch. Testata nel panel v3: apre la porta, non fa pagare. (launch,
+      marketing, offer)
 - [ ] **Fissare la soglia di utenti** oltre la quale un locale paga. (cfo,
       pricing)
 - [ ] **Togliere il rischio al locale:** gratis o solo commissione all'inizio,

@@ -1,0 +1,13 @@
+{
+  "id": "P013",
+  "buys": false,
+  "purchases_first_month": 0,
+  "reason_code": "trust",
+  "reason": "Listing is free so I might let you put my flyers up, but I would not pay anything now. 500 signups is not an audience, and I've paid for promo platforms before that brought nobody.",
+  "objection": "How many people actually use this app here? 500 on a waitlist is not people coming through my door, and I've been burned before.",
+  "would_change_my_mind": "Seeing the monthly active users pass 2,000 in my city, and a few clubs nearby telling me it actually brought people on a Saturday.",
+  "price_too_cheap": 10,
+  "price_cheap": 25,
+  "price_expensive": 60,
+  "price_too_expensive": 120
+}

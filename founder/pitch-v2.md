@@ -1,0 +1,5 @@
+Aroundly, a new app for nightlife in Friuli and Veneto, starting in one city: people open it and see every night out happening tonight near them, on a map and a calendar, with the full flyer (time, DJ, genre, price), and can save, share or buy entry.
+For venues, listing is free, forever: official profile linked to your socials, all your nights on the map and calendar. We load your flyers for you from Instagram; you don't have to do anything.
+You pay only once the app has an audience in your city: we publish the number of monthly active users, and paid plans switch on only after it passes 2,000. Until then, every venue is free.
+Paid plans, month to month, no minimum, cancel any time: Pro €39/month + VAT (featured nights, "Recommended" badge, push to nearby users, stats on views, saves and shares for every night). Club €119/month + VAT (top of the home on your nights, area pushes, advanced stats, monthly report). Founding partners who join now keep these prices for 12 months.
+Guarantee: if in a paid month your nights get fewer than 500 views in the app, that month is free. Ticket sales in the app: €0.50 per ticket, paid by the buyer, no monthly fee.

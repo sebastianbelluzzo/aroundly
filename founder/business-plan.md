@@ -44,7 +44,8 @@
     partners. A separate commission on ticket pre-sales (amount not set yet).
 - Where and how: Friuli Venezia Giulia and Veneto, Italy. Sold door to door by
   the founders with a partner kit (proposal, script, FAQ): first month free,
-  demo on the phone. The app is built on Firebase and hosted on Netlify. Pre-launch:
+  demo on the phone. When the founders pitch venues they will already have a
+  waitlist of users in that city to show. The app is built on Firebase and hosted on Netlify. Pre-launch:
   the app is not public yet and has no user base.
 - Budget and constraints: three co-founders. €200 to €1,000 a month of spending
   (excluding founders' time). No outside funding mentioned. The core risk the
@@ -77,6 +78,13 @@ nessun locale paga (11 no su 20 per "fiducia"). Con l'offerta nuova (gratis,
 paghi dopo 2.000 utenti, nessun vincolo) 19 locali su 20 accettano di entrare
 gratis: il calendario si può riempire.
 
+**La lista d'attesa:** quando andiamo dai locali avremo già una lista d'attesa
+di utenti della città, da mostrare nel pitch. Testata su 20 proprietari con 500
+iscritti: tutti e 20 accetterebbero l'inserimento gratuito (9 con un sì deciso),
+nessuno pagherebbe prima della soglia ("500 sign-ups is a list, not an
+audience"). Obiettivo: 300 iscritti prima delle visite ai bar, 1.000 prima
+delle discoteche.
+
 **Dove non sono d'accordo:** il board vuole meno funzioni e un solo piano
 pagante; il panel di discoteche accetterebbe un piano più ricco (€119). Il
 prezzo giusto per i bar (€25–39) va trovato con un test.
@@ -87,8 +95,10 @@ dai soci, contenuto "Stasera a Padova", ambassador universitari, QR nei locali;
 soglia d'allarme a 300 attivi a fine dicembre.
 
 **Per partire servono:** ~€7.000 tra i tre soci (circa €2.300 a testa), il
-backend sistemato, e due test a novembre: ≥ 30 locali su 50 accettano
-l'inserimento gratuito, ≥ 500 iscritti alla lista d'attesa.
+backend sistemato, e due test a novembre, in quest'ordine: prima la lista
+d'attesa (≥ 300 iscritti entro il 9 novembre, ≥ 1.000 entro il 29), poi le
+visite con il conteggio in mano (≥ 30 locali su 50 accettano l'inserimento
+gratuito).
 
 **La cosa da fare questa settimana:** sistemare le regole di sicurezza di
 Firebase e rimettere in funzione l'app. Senza, nient'altro può partire.
@@ -148,6 +158,10 @@ non parlano a loro nome. Memo completi in `founder/board/`.
       città (eventi pubblici, gratis per i locali) per almeno un mese di
       weekend, poi misurare utenti attivi settimanali, salvataggi e
       condivisioni. (launch, marketing)
+- [ ] **Lista d'attesa prima delle visite ai locali** (aggiunta dai soci):
+      300 iscritti per i bar, 1.000 per le discoteche; il conteggio si mostra
+      nel pitch. Testata nel panel v3: apre la porta, non fa pagare. (launch,
+      marketing, offer)
 - [ ] **Fissare la soglia di utenti** oltre la quale un locale paga. (cfo,
       pricing)
 - [ ] **Togliere il rischio al locale:** gratis o solo commissione all'inizio,
@@ -419,6 +433,13 @@ con il prezzo "equo" (IPP) a **€25** (`panel-v2/pricing-curve.md`). €39 è
 dentro la fascia ma sopra il punto di equilibrio: **il test Pro €29 contro €39
 diventa la prima cosa da provare** quando la città arriva alla soglia.
 
+### 9. Con la lista d'attesa nel pitch (panel v3)
+
+Mostrando una lista d'attesa di 500 iscritti, la fascia resta **€12 → €60** ma
+il prezzo equo (IPP) sale a **€30** e il punto di minor resistenza a €15
+(`panel-v3/pricing-curve.md`). Nessuno paga prima della soglia: la lista
+d'attesa alza un po' il prezzo accettabile, non il tasso d'acquisto.
+
 ## The offer
 
 Metodo: la prospettiva Offerta del board (sintesi del framework di *$100M
@@ -510,6 +531,52 @@ board: il problema è il mercato a due lati, non il prezzo.
 
 Sono acquirenti simulati: tendono a essere accomodanti, quindi i numeri sono un
 massimo. Va confermato con locali veri (vedi `launch.md`).
+
+### 6. La lista d'attesa nel pitch ai locali (panel v3)
+
+Quando andiamo a proporre Aroundly ai locali avremo **una lista d'attesa di
+utenti della città**, raccolta prima delle visite. Nel pitch mostriamo il
+**conteggio in tempo reale** sul telefono e diciamo che quelle persone
+riceveranno una notifica il giorno del lancio con le serate in programma. Lo
+abbiamo testato sugli stessi 20 proprietari (seed 7) con una lista di **500
+iscritti** (`pitch.md`, `panel-v3/`).
+
+| | v1 | v2 | **v3 (con lista d'attesa 500)** |
+| --- | ---: | ---: | ---: |
+| Pagherebbero subito un piano | 1 su 20 | 0 su 20* | **0 su 20*** |
+| Accettano l'inserimento gratuito | — | 19 su 20 | **20 su 20** (9 sì decisi, 11 "forse") |
+| Motivo principale del no | fiducia 11 | fiducia 7 | fiducia 10 |
+| Prezzo "equo" (IPP) | €56 | €25 | **€30** |
+| Fascia accettabile | €26–91 | €12–60 | €12–60 |
+
+\* I piani si attivano solo dopo 2.000 utenti attivi. Il tool conta "2 compra"
+nel panel v3: sono due proprietari che hanno contato l'inserimento gratuito
+come acquisto.
+
+**Cosa cambia la lista d'attesa:**
+- **Apre la porta.** Tutti e 20 accetterebbero l'inserimento gratuito. Il "sì"
+  diventa più concreto: "I'd say yes to the free listing" (P006), "I'd take the
+  free listing since it costs me nothing and I like being first" (P007).
+- **Non convince a pagare.** La frase più ripetuta è che una lista non è un
+  pubblico: "500 sign-ups in a city is a list, not an audience" (P018);
+  "500 people on a waitlist isn't customers walking into my bar" (P008); "500
+  is nothing next to my lists" (P001, discoteca con PR).
+- **Il prezzo equo sale** da €25 a €30: con un pubblico visibile accettano di
+  più. Conferma il test Pro €29 contro €39.
+
+**Come usarla al meglio (conseguenze per il piano):**
+1. **Usarla per gli inserimenti gratuiti, non per vendere.** La soglia per
+   pagare resta 2.000 utenti attivi al mese, non iscritti.
+2. **Mostrare la lista divisa e viva:** iscritti della città, quanti hanno meno
+   di 30 anni, quanti sono universitari, quanti si sono iscritti questa
+   settimana. Un numero che cresce convince più di un numero fermo.
+3. **Collegarla al locale:** "Il giorno del lancio queste persone ricevono la
+   notifica con le serate, comprese le tue." È il primo pubblico concreto.
+4. **Puntare più in alto di 500:** per le discoteche con PR e liste, 500 è
+   meno delle loro liste. Obiettivo **1.000 iscritti** prima di visitare le
+   discoteche; per i bar bastano 300–500.
+5. **Bonus 4, "Sei davanti alla lista d'attesa":** chi entra prima del lancio
+   compare nella prima notifica a tutta la lista d'attesa.
 
 ## The numbers
 
@@ -653,10 +720,31 @@ Per i **locali**:
 | ❌ Google Ads | Nessuno cerca "app serate" | — | — |
 | ❌ Influencer a pagamento | Budget troppo piccolo | — | — |
 
-### 3. Campagna 30 giorni (lancio utenti giovedì 3 dicembre 2026)
+### 3. La lista d'attesa (prima di tutto)
+
+Quando andiamo a proporre Aroundly ai locali avremo già una **lista d'attesa**
+di utenti della città. È il primo numero da mostrare nel pitch e il primo
+pubblico da notificare il giorno del lancio.
+
+- **Dove si raccoglie:** pagina "Stasera a Padova" (link in bio), sito
+  aroundly.app, QR in università e nei primi locali, ambassador.
+- **Cosa si chiede:** email o telefono, città, fascia d'età, universitario sì/no,
+  generi preferiti. Così nel pitch si mostra un numero diviso, non solo il totale.
+- **Cosa si promette:** accesso al lancio e la notifica con le serate del primo
+  weekend. Niente premi finti né numeri gonfiati.
+- **Obiettivi:** 300 iscritti entro il 9 novembre (inizio visite ai bar), 1.000
+  entro il 29 novembre (visite alle discoteche, che hanno liste PR più grandi).
+- **Nel pitch ai locali:** conteggio in tempo reale sul telefono e la frase "Il
+  giorno del lancio queste persone ricevono le serate in programma, comprese le
+  tue." Il panel v3 dice che apre la porta all'inserimento gratuito ma non
+  convince a pagare: "500 sign-ups is a list, not an audience" (P018).
+
+### 4. Campagna 30 giorni (lancio utenti giovedì 3 dicembre 2026)
 
 | Data | Canale | Cosa |
 | --- | --- | --- |
+| lun 2 nov | Instagram, sito | Apertura lista d'attesa: "Stiamo mettendo tutte le serate di Padova in un'app. Entra per primo." |
+| 2 – 29 nov | Tutti | Conteggio pubblico della lista d'attesa nelle storie ogni settimana |
 | gio 19 nov | Instagram | Prima "Stasera a Padova" (lista manuale di 10 serate) |
 | ven 20 – sab 21 nov | Instagram, storie | Le serate del weekend, link alla lista d'attesa |
 | lun 23 nov | Ambassador | Briefing e codici invito |
@@ -670,7 +758,7 @@ Per i **locali**:
 | 18–31 dic | Tutti | Speciale feste e Capodanno: tutte le serate in un posto |
 | ogni gio–sab | Instagram | "Stasera a Padova" (contenuto fisso quando non c'è niente di nuovo) |
 
-### 4. Dieci hook
+### 5. Dieci hook
 
 Ognuno risponde a un dubbio emerso (per gli utenti) o a un'obiezione del panel
 (per i locali).
@@ -687,9 +775,11 @@ Locali:
 7. "Gratis. Le locandine le carichiamo noi." (P014: "no time")
 8. "Paghi solo quando ti portiamo pubblico: il numero è pubblico." (P001: "how many people")
 9. "Nessun vincolo. Mese per mese." (P008: "3-month minimum")
+   — e, nella visita: "Guarda: 640 persone di Padova aspettano l'app. Il giorno del
+   lancio vedono le tue serate." (numero reale del momento, mai inventato)
 10. "Se il mese non funziona, non lo paghi." (P002: "brought nobody")
 
-### 5. Budget e numeri
+### 6. Budget e numeri
 
 - **Budget:** €450/mese (dentro il budget dei soci): €150 sponsorizzate, €100
   stampa QR e volantini, €200 serata di lancio e premi ambassador.
@@ -697,12 +787,14 @@ Locali:
   mese (CFO). Se resta 6 mesi vale ~€365: si possono spendere fino a ~€120 per
   conquistarlo (un terzo del valore). Per un utente, oggi, il valore non è
   misurabile: si spende per arrivare alla soglia di 2.000.
-- **Tre numeri da guardare ogni settimana:**
-  1. **Utenti attivi settimanali** a Padova (obiettivo: 2.000 attivi al mese
+- **Quattro numeri da guardare ogni settimana:**
+  1. **Iscritti alla lista d'attesa** (prima del lancio): 300 al 9 nov, 1.000 al
+     29 nov. Dopo il lancio: quota che installa l'app (obiettivo ≥ 50%).
+  2. **Utenti attivi settimanali** a Padova (obiettivo: 2.000 attivi al mese
      entro fine febbraio 2027). Allarme: meno di 300 a fine dicembre.
-  2. **Copertura del calendario**: % delle serate reali della città presenti
+  3. **Copertura del calendario**: % delle serate reali della città presenti
      in app (obiettivo ≥ 80% ogni weekend). Allarme: sotto 60%.
-  3. **Salvataggi + condivisioni per serata** (il segnale che interessa ai
+  4. **Salvataggi + condivisioni per serata** (il segnale che interessa ai
      locali). Allarme: sotto 5 per serata in media dopo un mese.
 
 Niente recensioni, numeri o testimonianze inventate; le citazioni del panel non
@@ -897,12 +989,15 @@ ottobre 2026.
 
 ### 1. Il test prima di spendere
 
-Due test, uno per lato del mercato, prima del lancio pubblico:
+Due test, uno per lato del mercato, prima del lancio pubblico. **L'ordine
+conta: prima si apre la lista d'attesa degli utenti, poi si va dai locali**, così
+quando proponiamo Aroundly abbiamo già un numero di iscritti da mostrare
+(testato nel panel v3, `offer.md` sezione 6).
 
 | Test | Come | Dal / al | Successo se |
 | --- | --- | --- | --- |
-| **Locali** | Proporre l'inserimento gratuito "Founding Partner" a 50 locali di Padova | 2 – 22 nov | **≥ 30 dicono sì** (60%). Il panel simulato dice ~95%: se i locali veri sono molto meno, fidarsi di loro |
-| **Utenti** | Pagina "Stasera a Padova" su Instagram + lista d'attesa sul sito | 2 – 29 nov | **≥ 500 iscritti** alla lista d'attesa |
+| **Utenti (lista d'attesa)** | Pagina "Stasera a Padova" su Instagram + lista d'attesa sul sito, con città, età e "universitario sì/no" | 2 – 29 nov | **≥ 300 iscritti entro il 9 nov** (si parte coi bar), **≥ 1.000 entro il 29 nov** |
+| **Locali** | Proporre l'inserimento gratuito "Founding Partner" a 50 locali di Padova, **mostrando il conteggio della lista d'attesa in tempo reale** | 9 – 22 nov (bar e locali con DJ); discoteche quando la lista supera 1.000 | **≥ 30 dicono sì** (60%). Il panel simulato dice 20 su 20 con la lista d'attesa: se i locali veri sono molto meno, fidarsi di loro |
 
 Se un test fallisce: tornare a `/founder-offer` (locali) o `/founder-marketing`
 (utenti) prima di lanciare.
@@ -920,10 +1015,11 @@ Il **percorso critico** (se slitta, slitta il lancio) è in grassetto.
 | 26 ott – 1 nov | **Regole di sicurezza Firebase, database in UE, test completo dell'app** | Socio A | **1 nov** |
 | | Ricerca marchio UIBM/EUIPO; decidere l'handle Instagram | Socio C | 1 nov |
 | | Sistemare l'email di benvenuto (`[Company Name]`) | Socio A | 1 nov |
-| 2 – 8 nov | Elenco di tutti i locali della città (target 80–120) | Socio B | 8 nov |
-| | Avvio pagina "Stasera a Padova" e lista d'attesa | Socio C | 2 nov |
+| 2 – 8 nov | **Avvio lista d'attesa e pagina "Stasera a Padova"; obiettivo 300 iscritti prima delle visite** | Socio C | **2 nov (avvio), 9 nov (300)** |
+| | Elenco di tutti i locali della città (target 80–120) | Socio B | 8 nov |
+| | Pagina sul telefono con il conteggio della lista d'attesa in tempo reale (diviso per età e universitari) da mostrare nelle visite | Socio A | 8 nov |
 | | Commercialista: forma societaria, partita IVA, privacy | Tutti | 8 nov |
-| 9 – 22 nov | **Visite ai locali: 50 proposte, consensi scritti** | Socio B | **22 nov** |
+| 9 – 22 nov | **Visite ai locali: 50 proposte con il conteggio della lista d'attesa, consensi scritti.** Prima bar e locali con DJ; discoteche quando la lista supera 1.000 | Socio B | **22 nov** |
 | | **Caricare le serate di tutti i locali, anche non partner, da fonti pubbliche** | Socio C | continuo |
 | | App sugli store (revisione Apple: prevedere 1–2 settimane) | Socio A | **20 nov** |
 | 23 – 29 nov | Ambassador universitari, adesivi QR nei locali partner | Socio C | 28 nov |
@@ -939,7 +1035,7 @@ Niente biglietti in app al lancio: prima va chiarito l'aspetto fiscale
 | Ora | Cosa | Chi |
 | --- | --- | --- |
 | 10:00 | Controllo finale: app sugli store, serate di stasera e del weekend complete | A, C |
-| 12:00 | Post e storie "Aroundly è online", messaggio alla lista d'attesa | C |
+| 12:00 | Post e storie "Aroundly è online"; **notifica e email a tutta la lista d'attesa con le serate di stasera e del weekend, prima i Founding Partner** | C |
 | 13:00 | Ambassador: messaggi nei gruppi universitari con codice invito | C |
 | 15:00 | Giro dei locali partner: adesivo QR presente, ringraziamento | B |
 | 18:00 | "Stasera a Padova" con link all'app | C |
@@ -957,6 +1053,7 @@ Se si blocca qualcosa: app ferma → messaggio onesto sui social e correzione
 | Copertura del calendario nei weekend | ≥ 80% | < 60% → più tempo al caricamento, chiedere ai locali |
 | Salvataggi + condivisioni per serata | ≥ 5 | < 2 → il problema è l'app, non il marketing |
 | Locali con inserimento gratuito | ≥ 40 | < 25 → rivedere il discorso ai locali |
+| Iscritti alla lista d'attesa che installano l'app | ≥ 50% | < 30% → la lista era fatta di curiosi: cambiare dove si raccolgono gli iscritti |
 | Costi del mese | ≤ €650 | > €800 → tagliare sponsorizzate |
 
 **Revisioni:**
